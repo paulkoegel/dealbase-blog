@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mighty-island-4577.herokuapp.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://dealbase-blog.herokuapp.com
+title: Dealbase Blog
+subtitle: News about Dealbase deal tracking
+author: The Dealbase team
 simple_search: http://google.com/search
 description:
 
